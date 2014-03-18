@@ -1,0 +1,28 @@
+{
+  "name": "oredev-angular",
+  "version": "0.1.0",
+  "description": "Ordev schdule with AngularJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlbinTheander/oredev-angular"
+  },
+  "author": "Albin Theander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlbinTheander/oredev-angular/issues"
+  },
+  "homepage": "https://github.com/AlbinTheander/oredev-angular",
+  "dependencies": {
+    "logfmt": "~1.0.0-pre2",
+    "express": "~3.4.8"
+  },
+  {
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.3.x"
+  }
+}
